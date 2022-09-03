@@ -5,7 +5,7 @@
 * Looking around
 * Manipulating files
 * Working with commands
-* Reading manpages
+* Reading manpage
 * Bash keyboard shortcuts
 * LTS (Long Term Support)
 * Shebang [hashbang]
