@@ -54,3 +54,6 @@ The script counts all the lines with the word `bin` in `/etc/passwd`
 
 ##### 16-whatsnexts
 This script displays lines containing the pattern `root` and three lines after them in `/etc/passwd`
+
+##### 17-hidethisword
+This script displays all the lines in the file `/etc/passwd` that do not contain the word `bin`
