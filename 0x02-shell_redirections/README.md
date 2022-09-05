@@ -15,3 +15,6 @@ prints the content of `/etc/passwd` and `/etc/hosts`
 
 ##### 4-lastlines
 prints the last 10 lines `/etc/passwd`
+
+##### 5-firstlines
+prints the first 10 lines `/etc/passwd`
