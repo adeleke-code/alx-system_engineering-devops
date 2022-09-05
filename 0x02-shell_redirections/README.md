@@ -69,4 +69,7 @@ This script reads from input and replaces `A` with `Z` and `c` with `e`.
 This script strips out `C` and `c` from the text read from `stdin`
 
 ##### 21-reverse
-This script reverse it's input
+This script reverses it's input
+
+##### 22-users_and_homes
+This script displays users and their home directory according to `/etc/passwd`
