@@ -29,3 +29,7 @@ creates a file named `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` with the line `Bes
 ##### 8-cwd_state
 writes the output of the `ls -la` command to the file `ls_cwd_content`
 > if the file is not empty, it is overwritten
+
+##### 9-duplicate_last_line
+This script duplicates the last line of `iacta`
+> iacta would be in the working directory when this script is run
