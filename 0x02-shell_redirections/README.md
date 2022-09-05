@@ -18,3 +18,7 @@ prints the last 10 lines `/etc/passwd`
 
 ##### 5-firstlines
 prints the first 10 lines `/etc/passwd`
+
+##### 6-last_line
+prints out the third line of `iacta`
+> iacta would be in the working directory where this would be run
