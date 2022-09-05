@@ -76,3 +76,6 @@ This script displays users and their home directory according to `/etc/passwd`
 
 ##### 100-empty_casks
 This script list just the names of empty files and directories. It does this recursively and also includes hidden files
+
+##### 101-gifs
+List all gif files recursively
