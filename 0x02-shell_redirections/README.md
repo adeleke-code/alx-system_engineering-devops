@@ -73,3 +73,6 @@ This script reverses it's input
 
 ##### 22-users_and_homes
 This script displays users and their home directory according to `/etc/passwd`
+
+##### 100-empty_casks
+This script list just the names of empty files and directories. It does this recursively and also includes hidden files
