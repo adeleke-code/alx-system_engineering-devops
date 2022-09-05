@@ -6,3 +6,6 @@ prints "hello world" with a new line after it
 
 ##### 1-confused_smiley
 prints "(Ôo)' to the screen
+
+##### 2-hellofile
+prints the content of `/etc/passwd`
