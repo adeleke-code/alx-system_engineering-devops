@@ -12,3 +12,6 @@ prints the content of `/etc/passwd`
 
 ##### 3-twofiles
 prints the content of `/etc/passwd` and `/etc/hosts`
+
+##### 4-lastlines
+prints the last 10 lines `/etc/passwd`
