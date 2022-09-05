@@ -9,3 +9,6 @@ prints "(Ôo)' to the screen
 
 ##### 2-hellofile
 prints the content of `/etc/passwd`
+
+##### 3-twofiles
+prints the content of `/etc/passwd` and `/etc/hosts`
