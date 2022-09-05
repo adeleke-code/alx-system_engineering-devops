@@ -57,3 +57,7 @@ This script displays lines containing the pattern `root` and three lines after t
 
 ##### 17-hidethisword
 This script displays all the lines in the file `/etc/passwd` that do not contain the word `bin`
+
+
+##### 18-letteronly
+This script prints out the lines in `/etc/ssh/sshd_config` that begin with a letter
