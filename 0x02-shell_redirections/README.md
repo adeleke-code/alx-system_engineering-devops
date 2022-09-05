@@ -64,3 +64,6 @@ This script prints out the lines in `/etc/ssh/sshd_config` that begin with a let
 
 ##### 19-AZ
 This script reads from input and replaces `A` with `Z` and `c` with `e`.
+
+##### 20-hiago
+This script strips out `C` and `c` from the text read from `stdin`
