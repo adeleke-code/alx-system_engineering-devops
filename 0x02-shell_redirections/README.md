@@ -67,3 +67,6 @@ This script reads from input and replaces `A` with `Z` and `c` with `e`.
 
 ##### 20-hiago
 This script strips out `C` and `c` from the text read from `stdin`
+
+##### 21-reverse
+This script reverse it's input
