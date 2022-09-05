@@ -36,3 +36,6 @@ This script duplicates the last line of `iacta`
 
 ##### 10-no_more_js
 This script recursively removes all js files
+
+##### 11-directories
+This script recursively counts all directories inside the working directory
