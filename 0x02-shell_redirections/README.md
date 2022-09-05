@@ -61,3 +61,6 @@ This script displays all the lines in the file `/etc/passwd` that do not contain
 
 ##### 18-letteronly
 This script prints out the lines in `/etc/ssh/sshd_config` that begin with a letter
+
+##### 19-AZ
+This script reads from input and replaces `A` with `Z` and `c` with `e`.
