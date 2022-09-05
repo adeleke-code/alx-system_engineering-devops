@@ -22,3 +22,6 @@ prints the first 10 lines `/etc/passwd`
 ##### 6-last_line
 prints out the third line of `iacta`
 > iacta would be in the working directory where this would be run
+
+##### 7-file
+creates a file named `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` with the line `Best School` inside it
