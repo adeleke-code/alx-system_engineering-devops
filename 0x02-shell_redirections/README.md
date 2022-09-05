@@ -39,3 +39,6 @@ This script recursively removes all js files
 
 ##### 11-directories
 This script recursively counts all directories inside the working directory
+
+##### 12-newest_files
+This script displays the 10 newest files in the current directory. Each on it's own line
