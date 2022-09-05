@@ -25,3 +25,7 @@ prints out the third line of `iacta`
 
 ##### 7-file
 creates a file named `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` with the line `Best School` inside it
+
+##### 8-cwd_state
+writes the output of the `ls -la` command to the file `ls_cwd_content`
+> if the file is not empty, it is overwritten
