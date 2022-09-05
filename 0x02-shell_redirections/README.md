@@ -45,3 +45,6 @@ This script displays the 10 newest files in the current directory. Each on it's 
 
 ##### 13-unique
 This script prints only unique lines from a file
+
+##### 14-findthatword
+The script displays all the lines with the word `root` in `/etc/passwd` 
