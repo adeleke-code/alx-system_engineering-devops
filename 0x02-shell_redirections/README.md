@@ -33,3 +33,6 @@ writes the output of the `ls -la` command to the file `ls_cwd_content`
 ##### 9-duplicate_last_line
 This script duplicates the last line of `iacta`
 > iacta would be in the working directory when this script is run
+
+##### 10-no_more_js
+This script recursively removes all js files
