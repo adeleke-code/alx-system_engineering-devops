@@ -48,3 +48,6 @@ This script prints only unique lines from a file
 
 ##### 14-findthatword
 The script displays all the lines with the word `root` in `/etc/passwd` 
+
+##### 15-countthatword
+The script counts all the lines with the word `bin` in `/etc/passwd` 
