@@ -51,3 +51,21 @@ print all possible combinations of two letters, except `oo`.
 ##### 13-print_float
 print a number with two decimal places, followed by a new line.
 > The number would be stored in the environment variable `NUM`
+
+##### 100-decimal_to_hexadecimal
+convert a decimal stored inside `DECIMAL` to it's base 16 form
+> DECIMAL is an environment variable
+
+##### 101-rot13
+encodes and decodes ASCII text using the rot13 encryption
+
+##### 102-odd
+print every other line from the input, starting with the first line
+
+##### 103-water_and_stir
+adds two numbers stored in the environment variable `WATER` and `STIR` and prints the result
+
+* `WATER` is in base `water`
+* `STIR` is in base `stir`
+* the result should be in base `bestchol`
+
