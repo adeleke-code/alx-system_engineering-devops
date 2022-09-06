@@ -3,7 +3,7 @@
 * What the shell is
 * Shell navigation
 * Looking around
-* Manipulating files
+* Manipulating file
 * Working with commands
 * Reading manpage
 * Bash keyboard shortcuts
